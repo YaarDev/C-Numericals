@@ -16,12 +16,12 @@ All problems are written in **C language** with clear explanations provided as c
 Each numerical problem is stored in a **separate `.c` file** for clarity and easy understanding.
 
 Example:
-- `student_structure.c`
-- `matrix_memory.c`
-- `union_memory.c`
-- `structure_vs_union.c`
-- `enum_union_structure.c`
-- `employee_record.c`
+- `student-structure.c`
+- `matrix-memory.c`
+- `union-memory.c`
+- `structure-vs-union.c`
+- `enum-union-structure.c`
+- `employee-record.c`
 
 ## Assumptions Used
 Unless stated otherwise:
